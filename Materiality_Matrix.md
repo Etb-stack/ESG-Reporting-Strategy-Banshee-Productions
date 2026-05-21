@@ -1,3 +1,5 @@
+
+```mermaid
 quadrantChart
     title Banshee Productions: Double Materiality Assessment
     x-axis Low Impact Materiality --> High Impact Materiality
@@ -8,6 +10,6 @@ quadrantChart
     quadrant-4 Environmental/Social Focus
     Climate Change: [0.8, 0.9]
     Data Privacy & GDPR: [0.7, 0.85]
-    Workforce Diversity: [0.9, 0.5]
+    Workforce Diversity: [0.85, 0.4]
     Biodiversity & Ecosystems: [0.8, 0.3]
     Business Conduct: [0.4, 0.7]
