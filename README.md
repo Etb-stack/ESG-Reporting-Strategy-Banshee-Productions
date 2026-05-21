@@ -1,5 +1,5 @@
 # ESG-Reporting-Strategy-Banshee-Productions
- A strategic ESG compliance roadmap and legal analysis for a large-scale Irish production company under the CSRD framework.
+ A strategic ESG compliance roadmap and legal analysis for a large-scale (fictitious) Irish production company under the CSRD framework.
 # ESG Regulatory Analysis & Compliance Roadmap
 ## Executive Summary
 ​This project provides a comprehensive legal and strategic analysis for Banshee Productions Ltd, a Dublin-based animation firm, as it navigates the transition to the Corporate Sustainability Reporting Directive (CSRD). As a large undertaking, the company faces immediate obligations to integrate non-financial reporting into its management reports, balancing European Sustainability Reporting Standards (ESRS) with Irish corporate law.  
